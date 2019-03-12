@@ -96,7 +96,7 @@ var config = {
   description: '他们老是说我瓜 其实我一点都不瓜 大多时候 我都机智的一逼',
   themeConfig: {
     repo: 'Thawsoar/vuepress_blog',
-    repoLabel: '代码',
+    repoLabel: 'GitHub',
     editLinks: true,
     editLinkText: '查看原文|编辑此页',
     nav,
