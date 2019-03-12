@@ -95,7 +95,7 @@ var config = {
   title: '罗小黑的博客',
   description: '他们老是说我瓜 其实我一点都不瓜 大多时候 我都机智的一逼',
   themeConfig: {
-    repo: 'zhb333/readme-blog',
+    repo: 'Thawsoar/vuepress_blog',
     repoLabel: '代码',
     editLinks: true,
     editLinkText: '查看原文|编辑此页',
